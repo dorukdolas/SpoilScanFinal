@@ -1,4 +1,4 @@
-Bu drive linkinde test süreçleri ve optimizasyon süreçleri var. https://drive.google.com/drive/folders/1mjD74WeGeXTc5ywNDkwr2Iy31Efpf2QB?usp=sharing
+Bu drive linkinde test süreçleri ve optimizasyon süreçleri var (modeller ve sonuç fotoğraflarıyla destekli). https://drive.google.com/drive/folders/1mjD74WeGeXTc5ywNDkwr2Iy31Efpf2QB?usp=sharing
 
 İkinci modelde (HOG + HSV + ML) test sonuçları aşırı yüksek olduğu için optimazsyon çok uzun sürmedi
 
